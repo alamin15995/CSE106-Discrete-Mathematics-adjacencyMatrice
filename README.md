@@ -34,5 +34,5 @@ Use Gnuplot or Excel to plot computation time vs matrix size from `times.csv`.
 - Computation time grows quadratically (≈ O(n²)).
 
 ## 🧑‍💻 Author
-Kazi Sifat Al Maksud (ID: 2019-3-60-050)  
+Md. Al Amin (2019-1-65-003)
 Instructor: Yeasir Rayhan (Lecturer, Dept. of CSE)
